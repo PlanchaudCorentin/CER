@@ -59,11 +59,29 @@ _Project Resource Organisation Management Planning Techniques_
 
 ### 7 Processes
 	Starting up a project
+	    SU1 - Name the executive and project manager
+	    SU2 - Compose Project Management Team
+	    SU3 - Name Project Management Team
+	    SU4 - Prepare the project presentation
+	    SU5 - Define the project approach
+	    SU6 - Plane the intialization sequence
 	Initiating a project
+	    IP1 - Plane the quality
+	            .Detail a 'quality plan'
+	            .Harmonize the quality process already in place
+	            .Define the methods and technics used
+	            .Who are the main stakeholders
+	    IP2 - Plane the project
+	    IP3 - Adjust the Business case and the risk
+	    IP4 - Create project controls
+	    IP5 - Create project folders
+	    IP6 - Gather the project initilization document
 	Directing a project
 	Controlling a stage
 	Managing product delivery
 	Managing stage boundaries
 	Closing a project
+	
+![alt text](https://www.vanharen.net/wp-content/uploads/sites/29/2012/07/Prince2-2017.jpg)
 	
 26 suggested templates for documentation
