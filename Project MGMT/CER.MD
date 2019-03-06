@@ -64,7 +64,7 @@ _Project Resource Organisation Management Planning Techniques_
 	    SU3 - Name Project Management Team
 	    SU4 - Prepare the project presentation
 	    SU5 - Define the project approach
-	    SU6 - Plane the intialization sequence
+	    SU6 - Plane the intialization stage
 	Initiating a project
 	    IP1 - Plane the quality
 	            .Detail a 'quality plan'
@@ -77,9 +77,32 @@ _Project Resource Organisation Management Planning Techniques_
 	    IP5 - Create project folders
 	    IP6 - Gather the project initilization document
 	Directing a project
+	    DP1 - Authorize the initilization
+	    DP2 - Authorize the project
+	    DP3 - Authorize a stage plan or exception plan
+	    DP4 - Give the appropriate directives
+	    DP5 - Confirm the project closure
 	Controlling a stage
+	    CS1 - Authorize a work lot
+	    CS2 - Evaluate the progression
+	    CS3 - Collect project's incidences
+	    CS4 - Analize the project's incidences
+	    CS5 - Examine the state of the stage
+	    CS6 - Report the key points
+	    CS7 - Lead corrective actions
+	    CS8 - Refer project's incidences
+	    CS9 - Recieve a finished work lot 
 	Managing product delivery
+	    MP1 - Accept a work lot
+	    MP2 - Execute a work lot
+	    MP3 - Deliver a work lot
 	Managing stage boundaries
+	    SB1 - Plane a stage
+	    SB2 - Update the project's plan
+	    SB3 - Update Business case
+	    SB4 - Update risk report
+	    SB5 - Report a stage end
+	    SB6 - Produce an execution plan
 	Closing a project
 	
 ![alt text](https://www.vanharen.net/wp-content/uploads/sites/29/2012/07/Prince2-2017.jpg)
