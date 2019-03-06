@@ -114,3 +114,26 @@ _Project Resource Organisation Management Planning Techniques_
 ![alt text](https://www.vanharen.net/wp-content/uploads/sites/29/2012/07/Prince2-2017.jpg)
 	
 26 suggested templates for documentation
+
+## PMI
+
+**Organizational structures**
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_1.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_2.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_3.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_4.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_5.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.1.3_6.JPG)
+
+**Stakeholders**
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.2.1.JPG)
+
+**Project life cycle** 
+
