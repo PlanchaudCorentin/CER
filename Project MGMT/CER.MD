@@ -165,9 +165,8 @@ _Project Resource Organisation Management Planning Techniques_
     
 **49 Processes**
 
-|                                        |                                   |                                         |                                    |                                       |                            |    | 
-|----------------------------------------|-----------------------------------|-----------------------------------------|------------------------------------|---------------------------------------|----------------------------|----| 
 | Knowledge Areas                        | Project Management Process Groups |                                         |                                    |                                       |                            |    | 
+|----------------------------------------|-----------------------------------|-----------------------------------------|------------------------------------|---------------------------------------|----------------------------|----| 
 |                                        | Initialing                        | Planning                                | Executing                          | Monitoring and Controlling            | Closing                    |    | 
 | [4] Project Integration Management     | 4.1 Develop Project Charter       | 4.2 Develop Project Management Plan     | 4.3 Direct and Manage Project Work | 4.5 Monitor and Control Project Work  | 4.7 Close Project or Phase | 7  | 
 |                                        |                                   |                                         | 4.4 Manage Project Knowledge       | 4.6 Perform Integrated Change Control |                            |    | 
