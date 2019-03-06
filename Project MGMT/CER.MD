@@ -12,7 +12,8 @@ _Project Resource Organisation Management Planning Techniques_
 	2009
 	2017
 
-### 6 Aspects ( = tolerances, = performance goal)
+**6 Aspects ( = tolerances, = performance goal)**
+
 	scope
 	timecale
 	risk
@@ -20,7 +21,8 @@ _Project Resource Organisation Management Planning Techniques_
 	benefits
 	cost
 	
-### 7 Principles
+**7 Principles**
+
 	Continued business justification
 		Update the business case on every stage of the project to ensure viability
 	Learn from experience
@@ -39,7 +41,8 @@ _Project Resource Organisation Management Planning Techniques_
 		tailored to suit the project environment, size, complexity, importance, time 
 		capability and risk
 
-### 7 Themes
+**7 Themes**
+
 	Business case
 		Establishes mechanisms to judge whether the project is desirable, viable 
 		and achievable
@@ -57,7 +60,8 @@ _Project Resource Organisation Management Planning Techniques_
 	Progress
 		To monitor and compare actual achievements against those planned
 
-### 7 Processes
+**7 Processes**
+
 	Starting up a project
 	    SU1 - Name the executive and project manager
 	    SU2 - Compose Project Management Team
