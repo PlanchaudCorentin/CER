@@ -140,7 +140,7 @@ _Project Resource Organisation Management Planning Techniques_
 
 
 
-###Processes
+### Processes
 
 **5 Process groups**
 
@@ -154,15 +154,52 @@ _Project Resource Organisation Management Planning Techniques_
 
     Integration
     Scope
-    Time
+    Schedule
     Cost
     Quality
-    Human Ressources
+    Ressource
     Communication
     Risk
     Procurement
     Stakeholder
     
-**47 Processes**
+**49 Processes**
 
-![alt text](http://www.emmanuelgeorjon.com/images/2016/09/pmp_process_map_en.png)
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+|----------------------------------------|-----------------------------------|-----------------------------------------|------------------------------------|---------------------------------------|----------------------------|----| 
+| Knowledge Areas                        | Project Management Process Groups |                                         |                                    |                                       |                            |    | 
+|                                        | Initialing                        | Planning                                | Executing                          | Monitoring and Controlling            | Closing                    |    | 
+| [4] Project Integration Management     | 4.1 Develop Project Charter       | 4.2 Develop Project Management Plan     | 4.3 Direct and Manage Project Work | 4.5 Monitor and Control Project Work  | 4.7 Close Project or Phase | 7  | 
+|                                        |                                   |                                         | 4.4 Manage Project Knowledge       | 4.6 Perform Integrated Change Control |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [5] Project Scope Management           |                                   | 5.1 Plan Scope Management               |                                    | 5.5 Validate Scope                    |                            | 6  | 
+|                                        |                                   | 5.2 Collect Requirements                |                                    | 5.6 Control Scope                     |                            |    | 
+|                                        |                                   | 5.3 Define Scope                        |                                    |                                       |                            |    | 
+|                                        |                                   | 5.4 Create WBS                          |                                    |                                       |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [6] Project Schedule Management        |                                   | 6.1 Plan Schedule Management            |                                    | 6.6 Control Schedule                  |                            | 6  | 
+|                                        |                                   | 6.2 Define Activities                   |                                    |                                       |                            |    | 
+|                                        |                                   | 6.3 Sequence Activities                 |                                    |                                       |                            |    | 
+|                                        |                                   | 6.4 Estimate Activity Durations         |                                    |                                       |                            |    | 
+|                                        |                                   | 6.5 Develop Schedule                    |                                    |                                       |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [7] Project Cost Management            |                                   | 7.1 Plan Cost Management                |                                    | 7.4 Control Costs                     |                            | 4  | 
+|                                        |                                   | 7.2 Estimate Costs                      |                                    |                                       |                            |    | 
+|                                        |                                   | 7.3 Determine Budget                    |                                    |                                       |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [8] Project Quality Management         |                                   | 8.1 Plan Quality Management             | 8.2 Manage Quality                 | 8.3 Control Quality                   |                            | 3  | 
+| [9] Project Resource Management        |                                   | 9.1 Plan Resource Management            | 9.3 Acquired Resources             | 9.6 Control Resources                 |                            | 6  | 
+|                                        |                                   | 9.2 Estimate Activity Resources         | 9.4 Develop Team                   |                                       |                            |    | 
+|                                        |                                   |                                         | 9.5 Manage Team                    |                                       |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [10] Project Communications Management |                                   | 10.1 Plan Communications Management     | 10.2 Manage Communications         | 10.3 Monitor Communications           |                            | 3  | 
+| [11] Project Risk Management           |                                   | 11.1 Plan Risk Management               | 11.6 Implement Risk Responses      | 11.7 Monitor Risks                    |                            | 7  | 
+|                                        |                                   | 11.2 Identify Risks                     |                                    |                                       |                            |    | 
+|                                        |                                   | 11.3 Perform Qualitative Risk Analysis  |                                    |                                       |                            |    | 
+|                                        |                                   | 11.4 Perform Quantitative Risk Analysis |                                    |                                       |                            |    | 
+|                                        |                                   | 11.5 Plan Risk Responses                |                                    |                                       |                            |    | 
+|                                        |                                   |                                         |                                    |                                       |                            |    | 
+| [12] Project Procurement Management    |                                   | 12.1 Plan Procurement Management        | 12.2 Conduct Procurements          | 12.3 Control Procurements             |                            | 3  | 
+| [13] Project Stakeholder Management    | 13.1 Identify Stakeholders        | 13.2 Plan Stakeholder Engagement        | 13.3 Manage Stakeholder Engagement | 13.4 Monitor Stakeholder Engagement   |                            | 4  | 
+|                                        | 2                                 | 24                                      | 10                                 | 12                                    | 1                          | 49 | 
+
