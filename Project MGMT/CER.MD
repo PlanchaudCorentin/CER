@@ -137,3 +137,32 @@ _Project Resource Organisation Management Planning Techniques_
 
 **Project life cycle** 
 
+
+
+
+###Processes
+
+**5 Process groups**
+
+    Initiating
+    Planning
+    Executing
+    Monitoring and Controlling
+    Closing
+    
+**10 Knowledge area**(Project ... Management)
+
+    Integration
+    Scope
+    Time
+    Cost
+    Quality
+    Human Ressources
+    Communication
+    Risk
+    Procurement
+    Stakeholder
+    
+**47 Processes**
+
+![alt text](http://www.emmanuelgeorjon.com/images/2016/09/pmp_process_map_en.png)
