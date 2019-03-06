@@ -40,6 +40,8 @@ _Project Resource Organisation Management Planning Techniques_
 	Tailor to Suit the project environment
 		tailored to suit the project environment, size, complexity, importance, time 
 		capability and risk
+		
+![alt text](https://www.prince2primer.com/wp-content/uploads/PRINCE2-2017-review-management-stage-status.png)
 
 **7 Themes**
 
@@ -87,7 +89,7 @@ _Project Resource Organisation Management Planning Techniques_
 	    DP4 - Give the appropriate directives
 	    DP5 - Confirm the project closure
 	Controlling a stage
-	    CS1 - Authorize a work lot
+	    CS1 - Authorize a work package
 	    CS2 - Evaluate the progression
 	    CS3 - Collect project's incidences
 	    CS4 - Analize the project's incidences
@@ -95,11 +97,11 @@ _Project Resource Organisation Management Planning Techniques_
 	    CS6 - Report the key points
 	    CS7 - Lead corrective actions
 	    CS8 - Refer project's incidences
-	    CS9 - Recieve a finished work lot 
+	    CS9 - Recieve a finished work package 
 	Managing product delivery
-	    MP1 - Accept a work lot
-	    MP2 - Execute a work lot
-	    MP3 - Deliver a work lot
+	    MP1 - Accept a work package
+	    MP2 - Execute a work package
+	    MP3 - Deliver a work package
 	Managing stage boundaries
 	    SB1 - Plane a stage
 	    SB2 - Update the project's plan
