@@ -137,7 +137,16 @@ _Project Resource Organisation Management Planning Techniques_
 
 **Project life cycle** 
 
++ Initiation
++ Organization and preparation
++ Execution
++ Closure 
 
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.4.1_1.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.4.1_2.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/2.4.2.JPG)
 
 
 ### Processes
@@ -150,6 +159,10 @@ _Project Resource Organisation Management Planning Techniques_
     Monitoring and Controlling
     Closing
     
+![alt text](https://www.tenstep.fr/TSPB/images_content/3.1_1.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/3.2.JPG)
+
 **10 Knowledge area**(Project ... Management)
 
     Integration
