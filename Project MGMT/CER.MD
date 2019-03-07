@@ -219,3 +219,22 @@ _Project Resource Organisation Management Planning Techniques_
 |                                        |                                   |                                         |                                    |                                       |                            |    | 
 |                                        | 2                                 | 24                                      | 10                                 | 12                                    | 1                          | 49 | 
 
+![alt text](https://www.tenstep.fr/TSPB/images_content/4.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/5.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/6.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/7.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/8.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/9.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/10.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/11.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/12.0.JPG)
+
+![alt text](https://www.tenstep.fr/TSPB/images_content/13.0.JPG)
