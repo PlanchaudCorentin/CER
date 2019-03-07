@@ -219,3 +219,4 @@ _Project Resource Organisation Management Planning Techniques_
 |                                        |                                   |                                         |                                    |                                       |                            |    | 
 |                                        | 2                                 | 24                                      | 10                                 | 12                                    | 1                          | 49 | 
 
+[Process Flow](/Project%20MGMT/Docs/flow.pdf)
