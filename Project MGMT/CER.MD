@@ -21,7 +21,7 @@ _Project Resource Organisation Management Planning Techniques_
 **6 Aspects ( = tolerances, = performance goal)**
 
 	scope
-	timecale
+	timescale
 	risk
 	quality
 	benefits
@@ -234,8 +234,8 @@ _Project Resource Organisation Management Planning Techniques_
 
 + Mainly used in the UK
 + Few tools
-+ simple model
-+ few experience required
++ Simple model
++ Few experience required
 
 **PMI**
 
