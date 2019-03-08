@@ -2,9 +2,15 @@
 ## PRINCE2
 **_PRojects IN Controlled Environments_**
 
++ Centered on the business justification of the project thanks to the business case
++ Organisational structure defined for the project management team
++ Planning approach based on the product
++ Project divided in different stage manageable and monitorable
++ Quite flexible depending on the project
+
 ![alt text](https://www.supinfo.com/articles/resources/161651/4707/2.png)
 
-Dervied from PROMPT2
+Derived from PROMPT2
 _Project Resource Organisation Management Planning Techniques_
 
 2 major revisions since 1996 (creation)
@@ -220,3 +226,20 @@ _Project Resource Organisation Management Planning Techniques_
 |                                        | 2                                 | 24                                      | 10                                 | 12                                    | 1                          | 49 | 
 
 [Process Flow](/Project%20MGMT/Docs/flow.pdf)
+
+
+## PMI vs Prince
+
+**Prince**
+
++ Mainly used in the UK
++ Few tools
++ simple model
++ few experience required
+
+**PMI**
+
++ Worldwide recognized
++ Many tools
++ Hard model
++ More experience required
