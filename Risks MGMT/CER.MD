@@ -45,3 +45,21 @@ objectives. This level is defined by thresholds of measurable risks.
 
 ### Plan Risk Management
 
+**Input Data**
+
++ Project Charter
++ Project Management Plan
++ Project Documents
++ Enterprise Environmental Factors
++ Organizational Process Assets
+
+**Tools and Techniques**
+
++ Expert Judgement 
++ Data Analysis
++ Meetings
+
+**Output Data**
+
++ Risk Management plan
+
