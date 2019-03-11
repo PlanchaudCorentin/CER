@@ -31,3 +31,17 @@ Monitoring and Controlling
 + 11.7: Follow the implementation of the response plans, monitor the identified risks, identify new ones, evaluate the 
 efficiency of the risk management process during the project duration
 
+2 levels of risks
++ Individual: Event or condition that realization would have a positive or negative impact on one or several objectives
+of the project
++ Global: Effect of the uncertainty on the whole project, which represent the exposure of the stakeholders to the 
+implications of the variations of the project's results
+
+Individual risks can be either positive (opportunity) or negative (threat), risk management aims to exploit or 
+strengthen opportunities while avoiding or soften threats.
+
+To efficiently manage risks, the team, must know the exposure level to the risks that is acceptable to follow the 
+objectives. This level is defined by thresholds of measurable risks. 
+
+### Plan Risk Management
+
