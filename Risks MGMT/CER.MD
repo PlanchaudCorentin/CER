@@ -63,3 +63,24 @@ objectives. This level is defined by thresholds of measurable risks.
 
 + Risk Management plan
 
+**Risk Management Plan**
+    
+    Risk Strategy
+        Describe the global approach adopted to manage the risk of the project
+    Method
+        Define the approaches, tools and data sources that will be used to manage risk
+    Roles and Responsabilities
+        Define the team members in charge of the leading, the support activities and risks management for each activity 
+        type described in the plan.
+    Funding
+        Establish the fund required to realize the  risk management activities
+    Schedule
+        Self explanatory
+    Risk category
+        Give a way to gather individual risks. They are often strucutured in an organization chart (the Risk Breakdown 
+        Structure, RBS). It shows a hierachical representation of the sources of the potential risks.
+        
+        
+![alt text](https://project-management.com/wp-content/uploads/2012/06/risk-wbs.jpg)
+
+![alt text](https://www.pmi.org/kasimage/5c34e5c0-380a-42aa-b17b-462f3fb96a97/p2_01.jpg)
